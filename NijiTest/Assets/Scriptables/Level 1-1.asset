@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2742b77ce345a38438f9f0a7affb39a3, type: 3}
+  m_Name: Level 1-1
+  m_EditorClassIdentifier: 
+  customer: 99
+  timebetweencustomer: 9
+  unlocks: 1-2
+  orders:
+  - {fileID: 11400000, guid: f88fcbe3007277d40b3a14c41222d8c9, type: 2}
+  - {fileID: 11400000, guid: ba4d68dc7820a69479d66fb2487507f9, type: 2}
+  - {fileID: 11400000, guid: 3df8f312d7764da48844804621b3eb56, type: 2}
+  - {fileID: 11400000, guid: fe20d69f3a1798744a3f8e0bba89c7fe, type: 2}
+  goals:
+  - type: 0
+    amount: 120
