@@ -23,3 +23,5 @@ MonoBehaviour:
   goals:
   - type: 0
     amount: 120
+  - type: 1
+    amount: 10
